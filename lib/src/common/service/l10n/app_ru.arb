@@ -1,0 +1,18 @@
+{
+  "welcome": "Добро пожаловать в Quizzly!",
+  "description": "С Quizzly вы можете улучшить свое мышление, интеллект и логические навыки.",
+  "appropriateLevel": "Выберите подходящий уровень",
+  "levelNumber": "Уровень {number}",
+  "@levelNumber": {
+    "description": "Levels' numbers on home screen",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "question": "Вопрос",
+  "score": "Ваш счет",
+  "correct": "Правильный",
+  "wrong": "Неправильный",
+  "playAgain": "Заново",
+  "home": "Главная"
+}

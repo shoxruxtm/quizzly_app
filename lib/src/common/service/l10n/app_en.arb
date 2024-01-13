@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome to Quizzly!",
+  "description": "With Quizzly, you can improve your thinking, intelligence and logical skills.",
+  "appropriateLevel": "Choose the appropriate level",
+  "levelNumber": "Level {number}",
+  "@levelNumber": {
+    "description": "Levels' numbers on home screen",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "question": "Question",
+  "score": "Your Score",
+  "correct": "Correct",
+  "wrong": "Wrong",
+  "playAgain": "Play again",
+  "home": "Home"
+}

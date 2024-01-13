@@ -1,0 +1,18 @@
+{
+  "welcome": "Quizzly ga xush kelibsiz!",
+  "description": "Quizzly yordamida siz o'zingizning fikrlashingiz va mantiqiy mahoratlaringizni oshira olasiz.",
+  "appropriateLevel": "O'zingizga mos keladigan bosqichni tanlang",
+  "levelNumber": "{number} - bosqich",
+  "@levelNumber": {
+    "description": "Levels' numbers on home screen",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "question": "Savol",
+  "score": "To'plagan balingiz",
+  "correct": "To'g'ri",
+  "wrong": "Xato",
+  "playAgain": "Qayta o'ynash",
+  "home": "Bosh sahifa"
+}
